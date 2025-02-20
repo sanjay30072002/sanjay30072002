@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Sanjay 👋</h1>
 <h3 align="center">🚀 A passionate Full Stack Developer 🚀</h3>
 
-<img src="https://media.giphy.com/media/QTfX9Ejfra3ZmNxh6B/giphy.gif" width="100%"/>
+<img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="50%" height="50%"/>
 
 
 ## 🚀 About Me
