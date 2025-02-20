@@ -1,8 +1,7 @@
 <h1 align="center">Hi there, I'm Sanjay 👋</h1>
 <h3 align="center">🚀 A passionate Full Stack Developer 🚀</h3>
 
-<img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="100%" height="50%"/>
-
+<img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="100% height="50%"/>
 
 ## 🚀 About Me
 - 👨‍💻 I specialize in **Full Stack Development**
@@ -43,13 +42,14 @@
 
 ## 📊 GitHub Stats
 
-(![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sanjay30072002&show_icons=true&theme=dark)
-)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sanjay30072002&show_icons=true&theme=dark)
 
 ---
 
-## 🏆 Hackerrank & Badges
+## 🏆 Coding Platforms
 [![HackerRank](https://img.shields.io/badge/-HackerRank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/sanjayofficial31)
+[![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/sanjaysekar)
+
 
 
 ---
