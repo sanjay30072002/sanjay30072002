@@ -1,18 +1,22 @@
-<h1 align="center">Hi there, I'm Sanjay 👋</h1>
-<h3 align="center">🚀 A passionate Full Stack Developer 🚀</h3>
+<h1 align="center">Hi there, I'm Sanjay <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"></h1>
+<h3 align="center">🚀 A Passionate Full Stack Developer 🚀</h3>
 
-<img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="100%"/>
+<p align="center">
+  <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="80%"/>
+</p>
+
+---
 
 ## 🚀 About Me
 - 👨‍💻 I specialize in **Full Stack Development**
 - 🌱 I’m always learning and exploring new technologies
-- 🎯 **Fun Fact:** I usually have the habit of coding in the early morning and dead of night 🌙☀️
+- 🎯 **Fun Fact:** I usually code in the early morning and dead of night 🌙☀️
 - 💡 *"Success is never ending and Failure is never final."*
 
 ---
 
 ## 🛠️ Tech Stack
-**Languages:**  
+### **Languages:**
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -20,18 +24,18 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
 
-**Frontend:**  
+### **Frontend:**
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
-**Backend & Databases:**  
+### **Backend & Databases:**
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 
-**Tools & IDEs:**  
+### **Tools & IDEs:**
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![PyCharm](https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white)
 ![Python IDLE](https://img.shields.io/badge/Python-IDLE-blue?style=for-the-badge)
@@ -41,16 +45,16 @@
 ---
 
 ## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sanjay30072002&show_icons=true&theme=dark)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sanjay30072002&show_icons=true&theme=radical" width="48%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sanjay30072002&theme=radical" width="48%"/>
+</div>
 
 ---
 
 ## 🏆 Coding Platforms
 [![HackerRank](https://img.shields.io/badge/-HackerRank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/sanjayofficial31)
 [![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/sanjaysekar)
-
-
 
 ---
 
@@ -60,12 +64,19 @@
 ---
 
 ## 🔥 GitHub Contribution Graph
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=sanjay30072002&theme=react)
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sanjay30072002&theme=react"/>
+</p>
+
+---
+
+## 🎵 Currently Listening To
+[![Spotify](https://novatorem-seven.vercel.app/api/spotify)](https://open.spotify.com/user/your_spotify_username)
 
 ---
 
 ## 🚀 Profile Visitors
-![Profile views](https://komarev.com/ghpvc/?username=your-username&color=blue)
+![Profile views](https://komarev.com/ghpvc/?username=sanjay30072002&color=blue)
 
 ---
 
