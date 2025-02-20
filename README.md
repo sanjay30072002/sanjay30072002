@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Sanjay 👋</h1>
 <h3 align="center">🚀 A passionate Full Stack Developer 🚀</h3>
 
-![Code Banner](https://raw.githubusercontent.com/Akshay090/github-readme-banners/main/banners/dev-banner.png)
+<img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="100%"/>
 
 
 ## 🚀 About Me
