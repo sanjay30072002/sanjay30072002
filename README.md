@@ -47,7 +47,6 @@
 ## 📊 GitHub Stats
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=sanjay30072002&show_icons=true&theme=radical" width="48%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sanjay30072002&theme=radical" width="48%"/>
 </div>
 
 ---
@@ -70,10 +69,6 @@
 
 ---
 
-## 🎵 Currently Listening To
-[![Spotify](https://novatorem-seven.vercel.app/api/spotify)](https://open.spotify.com/user/your_spotify_username)
-
----
 
 ## 🚀 Profile Visitors
 ![Profile views](https://komarev.com/ghpvc/?username=sanjay30072002&color=blue)
