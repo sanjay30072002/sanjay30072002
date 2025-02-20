@@ -2,8 +2,6 @@
 <h3 align="center">🚀 A passionate Full Stack Developer 🚀</h3>
 
 <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="100%"/>
-
-
 ## 🚀 About Me
 - 👨‍💻 I specialize in **Full Stack Development**
 - 🌱 I’m always learning and exploring new technologies
