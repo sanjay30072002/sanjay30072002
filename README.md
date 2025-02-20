@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Sanjay 👋</h1>
 <h3 align="center">🚀 A passionate Full Stack Developer 🚀</h3>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=4000&pause=1000&color=36BCF7&width=500&lines=Hi+there%2C+I'm+Sanjay+👋;A Passionate Full+Stack+Developer;Always+learning+new+techs!" />
+<img src="https://media.giphy.com/media/QTfX9Ejfra3ZmNxh6B/giphy.gif" width="100%"/>
 
 
 ## 🚀 About Me
