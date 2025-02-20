@@ -1,6 +1,9 @@
 <h1 align="center">Hi there, I'm Sanjay 👋</h1>
 <h3 align="center">🚀 A passionate Full Stack Developer 🚀</h3>
 
+<img src="https://media.giphy.com/media/QTfX9Ejfra3ZmNxh6B/giphy.gif" width="100%"/>
+
+
 ## 🚀 About Me
 - 👨‍💻 I specialize in **Full Stack Development**
 - 🌱 I’m always learning and exploring new technologies
@@ -44,14 +47,14 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=dark" width="48%"/>
 </p>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sanjay30072002&layout=compact&theme=dark)
+![Top Langs](![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sanjay30072002&show_icons=true&theme=dark)
+)
 
 ---
 
 ## 🏆 Hackerrank & Badges
-[![HackerRank](https://img.shields.io/badge/-HackerRank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/@sanjayofficial31
+[![HackerRank](https://img.shields.io/badge/-HackerRank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/sanjayofficial31)
 
-)
 
 ---
 
