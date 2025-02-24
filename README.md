@@ -9,8 +9,8 @@
 
 ## 🚀 About Me
 - 👨‍💻 I specialize in **Full Stack Development**
-- 🌱 I’m always learning and exploring new technologies
-- 🎯 **Fun Fact:** I usually code in the early morning and dead of night 🌙☀️
+- 🌱 I’m always learning and exploring new technologies.
+- 🎯 **Fun Fact:** I feel relaxed when i solve the issue in the code.
 - 💡 *"Success is never ending and Failure is never final."*
 
 ---
